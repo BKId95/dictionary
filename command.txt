@@ -1,0 +1,1 @@
+gcc –o  server  server.c  creatbtdic.c  operation.c  user.c  soundex.c  libfdr/libfdr.a  bt-3.0.1/lib/libbt.a
